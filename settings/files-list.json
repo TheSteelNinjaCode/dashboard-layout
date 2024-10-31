@@ -1,0 +1,18 @@
+[
+  "./src/app/assets/fonts/GeistMonoVF.woff",
+  "./src/app/assets/fonts/GeistVF.woff",
+  "./src/app/assets/images/prisma-php.png",
+  "./src/app/css/styles.css",
+  "./src/app/css/tailwind.css",
+  "./src/app/dashboard-1/index.php",
+  "./src/app/dashboard-2/index.php",
+  "./src/app/dashboard-3/index.php",
+  "./src/app/dashboard-4/index.php",
+  "./src/app/dashboard-5/index.php",
+  "./src/app/favicon.ico",
+  "./src/app/index.php",
+  "./src/app/js/index.js",
+  "./src/app/js/json5.min.js",
+  "./src/app/layout.php",
+  "./src/app/not-found.php"
+]

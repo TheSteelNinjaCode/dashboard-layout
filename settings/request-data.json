@@ -1,0 +1,39 @@
+{
+    "\/": {
+        "url": "\/",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\index.php"
+        ]
+    },
+    "dashboard-1": {
+        "url": "dashboard-1",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\not-found.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\index.php"
+        ]
+    },
+    "dashboard-2": {
+        "url": "dashboard-2",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\index.php"
+        ]
+    },
+    "dashboard-3": {
+        "url": "dashboard-3",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\index.php"
+        ]
+    },
+    "dashboard-4": {
+        "url": "dashboard-4",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-4\\index.php"
+        ]
+    },
+    "dashboard-5": {
+        "url": "dashboard-5",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-5\\index.php"
+        ]
+    }
+}

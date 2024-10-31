@@ -1,0 +1,19 @@
+{
+  "projectName": "dashboard-layout",
+  "projectRootPath": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout",
+  "phpEnvironment": "XAMPP",
+  "phpRootPathExe": "C:\\xampp\\php\\php.exe",
+  "phpGenerateClassPath": "",
+  "bsTarget": "http://localhost/projects/prisma-php/posts/dashboard-layout/",
+  "bsPathRewrite": {
+    "^/": "/projects/prisma-php/posts/dashboard-layout/"
+  },
+  "backendOnly": false,
+  "swaggerDocs": false,
+  "tailwindcss": true,
+  "websocket": false,
+  "prisma": false,
+  "docker": false,
+  "version": "1.26.3",
+  "excludeFiles": []
+}
