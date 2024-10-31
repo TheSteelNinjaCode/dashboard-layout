@@ -1,27 +1,13 @@
-<div class="flex flex-col min-h-screen">
-    <!-- Top Head -->
-    <header class="bg-gray-800 text-white p-4">
-        Top Head
-    </header>
+<div class="flex flex-col flex-1 gap-2 w-full h-full">
+    <!-- Section with Boxes -->
+    <div class="flex space-x-4">
+        <div class="bg-gray-300 flex-1 p-4">Box 1</div>
+        <div class="bg-gray-300 flex-1 p-4">Box 2</div>
+        <div class="bg-gray-300 flex-1 p-4">Box 3</div>
+    </div>
 
-    <!-- Main Content Wrapper -->
-    <div class="flex flex-1">
-        <!-- Sidebar -->
-        <aside class="bg-gray-200 w-1/4 p-4">
-            Sidebar
-        </aside>
-
-        <!-- Page Content -->
-        <div class="flex flex-col flex-1">
-            <!-- Main Content -->
-            <main class="flex-1 bg-white p-4">
-                Page Content
-            </main>
-
-            <!-- Footer -->
-            <footer class="bg-gray-800 text-white p-4">
-                Footer
-            </footer>
-        </div>
+    <!-- Larger Content Section -->
+    <div class="flex-1 bg-gray-100 p-4">
+        Main Content
     </div>
 </div>

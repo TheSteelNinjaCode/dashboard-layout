@@ -9,31 +9,77 @@
         "url": "dashboard-1",
         "includedFiles": [
             "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\not-found.php",
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\index.php"
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php"
         ]
     },
     "dashboard-2": {
         "url": "dashboard-2",
         "includedFiles": [
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\index.php"
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\right-sidebar.php"
         ]
     },
     "dashboard-3": {
         "url": "dashboard-3",
         "includedFiles": [
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\index.php"
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\footer.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php"
         ]
     },
     "dashboard-4": {
         "url": "dashboard-4",
         "includedFiles": [
-            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-4\\index.php"
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-4\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-4\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\right-sidebar.php"
         ]
     },
     "dashboard-5": {
         "url": "dashboard-5",
         "includedFiles": [
             "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-5\\index.php"
+        ]
+    },
+    "dashboard-1\/users": {
+        "url": "dashboard-1\/users",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\users\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-1\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php"
+        ]
+    },
+    "dashboard-2\/customers": {
+        "url": "dashboard-2\/customers",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\customers\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-2\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\right-sidebar.php"
+        ]
+    },
+    "dashboard-3\/profile": {
+        "url": "dashboard-3\/profile",
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\profile\\index.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\dashboard-3\\layout.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\left-sidebar.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\footer.php",
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\dashboard-layout\\src\\app\\_components\\top-head.php"
         ]
     }
 }
